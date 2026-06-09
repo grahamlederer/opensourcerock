@@ -3,7 +3,8 @@ dataverse_files/
 dataverse_files.zip
 
 # Large output files
-data/processed/*.csv
+data/processed/cipw_norm_output.csv
+data/processed/fa_with_coords.csv
 
 # Python
 __pycache__/
