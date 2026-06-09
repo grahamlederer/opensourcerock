@@ -1,10 +1,13 @@
-# Raw input data (GEOROC downloads — do not commit)
+# Raw input data — do not commit
 dataverse_files/
 dataverse_files.zip
+chorlton/
 
-# Large output files
+# Large / reproducible intermediate outputs
 data/processed/cipw_norm_output.csv
 data/processed/fa_with_coords.csv
+data/processed/chorlton_merged.gpkg
+data/processed/fa_joined_geology.csv
 
 # Python
 __pycache__/
