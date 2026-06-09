@@ -1,6 +1,13 @@
+# Raw input data (GEOROC downloads — do not commit)
+dataverse_files/
+dataverse_files.zip
+
+# Large output files
+data/processed/*.csv
+
+# Python
 __pycache__/
 *.py[cod]
 .DS_Store
-data/processed/
 *.ipynb_checkpoints
 .env
